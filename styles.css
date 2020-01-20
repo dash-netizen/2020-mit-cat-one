@@ -1,0 +1,179 @@
+.read_more button{
+    background-color: red;
+    color: white;
+    margin-left: 90%;
+}
+img{
+    padding: 15px;
+}
+body{
+    background-color: #ffffff;
+}
+.my_first_div{
+    background-color: yellow;
+}
+.my_button:hover{
+    border: 1px solid yellow;
+    background-color: #fff333;
+    color: #ffc41d;
+}
+hr{
+    background-color: yellow;
+}
+.read hr{
+    background-color: gray;
+}
+
+hr{
+    display: block;
+}
+
+h2{
+    color: #dcd329;
+    margin-left: 100px;
+}
+span{
+    color: #dcd329;
+}
+header{
+    background-color: #efefef;
+}
+h4{
+    color: #dcd329;
+}
+
+}
+.image_1{
+    width: 25%;
+    min-height: 40vh;
+}
+.image_2{
+    width: 25%;
+    min-height: 40vh;
+    padding-left: 350px;
+    margin-top: -295px;
+}
+.image_3{
+    width: 25%;
+    min-height: 40vh;
+    padding-left: 700px;
+    margin-top: -370px;
+}
+.image_4{
+    width: 25%;
+    min-height: 40vh;
+}
+.image_5{
+    width: 25%;
+    min-height: 40vh;
+    padding-left: 350px;
+    margin-top: -370px;
+}
+.image_6{
+    width: 25%;
+    min-height: 40vh;
+    padding-left: 700px;
+    margin-top: -376px;
+}
+h6{
+    font-size: 30px;
+}
+.main_div{
+    min-height: 60vh;
+    display: flex;
+    background-color: #ffc41d;
+}
+
+.my_h2{
+    color: black;
+}
+
+.input_one{
+    margin-left: 80%;
+}
+
+.my_header{
+    margin-left: 100px;
+    color: darkgray;
+}
+
+.my_h1{
+    margin-left: 100px;
+    color: rgba(0,0,0,0.73);
+}
+
+.my_p{
+    margin-left: 100px;
+
+}
+
+.button_div{
+    margin-left: 100px;
+}
+
+.view_more_one{
+    background-color: red;
+    color: white;
+    margin-left: 90%;
+    margin-bottom: 2%;
+}
+
+.my_top_div{
+    margin-left: 7%;
+    margin-right: 20%;
+}
+
+.main_one{
+    margin-left: 100px;
+}
+
+.hr_one{
+    height: 3px;
+    background-color: #ffc41d;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 5px;
+}
+
+.my_last_hr{
+    height: 3px;
+    background-color: #ffc41d;
+    margin-top: 0px;
+    padding: 5px;
+}
+
+.my_footer_div{
+    min-height: 10px;
+    background-color: #ffc41d;
+    color: #efefef;
+    padding-top: 20px;
+}
+
+.footer_div{
+    display: flex;
+    margin-left: 50%;
+    margin-bottom: 30%;
+    background-color: #ffc41d;
+   color: #efefef;
+}
+
+.footer_one{
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+
+.footer_two{
+    margin-left: 2%;
+}
+
+.footer_three{
+    margin-left: 2%;
+}
+
+.footer_three{
+    margin-left: 2%;
+}
+
+.footer_four{
+    margin-left: 2%;
+}
